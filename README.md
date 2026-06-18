@@ -1,30 +1,38 @@
-## Specialized Cybersecurity Engineer | Ethical Hacker 🛡️
+<div align="center">
 
-> 10+ years securing systems across critical infrastructure, automotive,
-> finance, and telecom sectors. Based in Luxembourg.
+# t0kubetsu
 
----
+**Specialized Cybersecurity Engineer · Ethical Hacker · Red Teamer**
 
-### About Me
+*10+ years securing critical infrastructure, automotive, finance & telecom · Based in Luxembourg 🇱🇺*
 
-I'm a cybersecurity engineer with a graduate degree in information security,
-specializing in offensive security and R&D. I've worked across startups and
-large multinationals, covering the full spectrum from hands-on pentesting to
-building security products and running training programs.
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/139655)
+[![Root-Me](https://img.shields.io/badge/Root--Me-Profile-orange?style=flat-square&logo=rootme&logoColor=white)](https://www.root-me.org/cyberninja)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-C11111?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DojiStar)
 
----
-
-### What I Do
-
-- **Penetration Testing** — Application (Web, Mobile), Internal & External assessments, source code auditing
-- **Red Teaming** — Adversarial simulation, phishing platforms, instructor
-- **R&D** — Network traffic generators, pentest platforms, automotive cybersecurity
-- **Security Training** — Awareness programs, skills transfers, workshops
-- **Compliance & Governance** — Security dashboards, access control, regulatory frameworks
+</div>
 
 ---
 
-### Experience Highlights
+### About
+
+Cybersecurity engineer with a graduate degree in information security, specializing in offensive security and R&D. Career spans startups to large multinationals — from hands-on penetration testing and red team operations to building security products, running automotive cybersecurity programmes, and delivering training at scale.
+
+---
+
+### Core Competencies
+
+| Area | Focus |
+|---|---|
+| **Penetration Testing** | Web · Mobile · Network · Infrastructure · Source Code Audit |
+| **Red Teaming** | Adversarial simulation · Phishing platforms · C2 operations |
+| **R&D** | Network traffic generators · Pentest platforms · Automotive cybersecurity |
+| **Security Training** | Awareness programmes · Skills transfers · Hands-on workshops |
+| **Compliance & Governance** | Security dashboards · Access control · Regulatory frameworks |
+
+---
+
+### Experience
 
 | Domain | Years |
 |---|---|
@@ -36,19 +44,26 @@ building security products and running training programs.
 
 ---
 
-### Certifications
+### Certifications & Platform Stats
 
-- 🟥 **THM — Red Teaming** (TryHackMe)
-- 🔥 **Stormshield Network Administrator**
+| Certification | Issuer |
+|---|---|
+| **Red Teaming** | TryHackMe |
+| **Network Administrator** | Stormshield |
+
+<div align="center">
+
+[![HackTheBox](https://www.hackthebox.com/badge/image/139655)](https://app.hackthebox.com/users/139655)
+&nbsp;
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/DojiStar.png)](https://tryhackme.com/p/DojiStar)
+
+</div>
 
 ---
 
-### CTF & Practice Platforms
+<div align="center">
 
-- 🟩 **HackTheBox** — [profile](https://app.hackthebox.com/users/139655)
-- 🔴 **Root-Me** — [profile](https://www.root-me.org/cyberninja)
+*All work on this profile is performed within authorized, legal, and ethical boundaries.*
+*Security research · CTF participation · Defensive tooling only.*
 
----
-
-*All work on this profile is done within authorized, legal, and ethical
-boundaries. Security research, CTF participation, and defensive tooling only.*
+</div>
