@@ -64,7 +64,9 @@ Cybersecurity engineer with a graduate degree in information security, specializ
 <div align="center">
 
 *All work on this profile is performed within authorized, legal, and ethical boundaries.*
+
 *Security research · CTF participation · Authorized engagements only.*
+
 *Some code and documentation are written with AI assistance. I review and test all of it, and I am responsible for everything I publish.*
 
 </div>
